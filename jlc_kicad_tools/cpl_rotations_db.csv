@@ -2,11 +2,11 @@
 "^R_Array_Convex_",90
 "^R_Array_Concave_",90
 "^SOT-223",180
-"^SOT-23",-90
+"^SOT-23",180
 "^SOT-89",180
 "^TSOT-23",180
 "^SOT-353",180
-"^SOT-363",180
+"^SOT-363",270
 "^LQFP-",270
 "^TQFP-",270
 "^SOP-4_",0
@@ -31,7 +31,6 @@
 "^CP_Elec_8x6.7",180
 "^CP_Elec_8x10",180
 "^CP_Elec_10x10",180
-"^(.*?_|V)?QFN-(16|20|24|28|40)(-|_|$)",270
 "^Bosch_LGA-8_2x2.5mm_P0.65mm_ClockwisePinNumbering",90
 "^PowerPAK_SO-8_Single",270
 "^HTSSOP-28-1EP_4.4x9.7mm*",270
@@ -57,4 +56,7 @@
 "^SOT-143",180
 "^PinHeader_2x05_P1\.27mm_Vertical",90,2.54,0.635
 "^LED_WS2812B-2020_PLCC4_2.0x2.0mm",90
-"^^WSON-8-1EP_6x5mm_P1.27mm",-90
+"^WSON-8-1EP_6x5mm_P1.27mm",-90
+"^SOT-666",180
+"^PT61017PEL",270
+"^SOT-23-6",270
